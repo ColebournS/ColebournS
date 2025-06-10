@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Student and Developer from Massachusetts</h3>
+<h3 align="center">Software Engineer from Massachusetts</h3>
 
 - 👨‍💻 Learn more about me at [https://samcolebourn.com/](https://samcolebourn.com/)
 
