@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam Colebourn</h1>
 <h3 align="center">Software Engineer from Massachusetts</h3>
 
-- 👨‍💻 Learn more about me at [https://samcolebourn.com/](https://samcolebourn.com/)
+<h4 align="center">
+  👨‍💻 Learn more about me at <a href="https://samcolebourn.com/">samcolebourn.com</a>
+</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
