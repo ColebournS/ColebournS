@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam</h1>
+<h1 align="center">Hi 👋, I'm Sam Colebourn</h1>
 <h3 align="center">Software Engineer from Massachusetts</h3>
 
 - 👨‍💻 Learn more about me at [https://samcolebourn.com/](https://samcolebourn.com/)
